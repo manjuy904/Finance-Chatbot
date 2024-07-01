@@ -1,0 +1,11 @@
+
+langchain
+langchain-openai # I can also use Google Gemini, OpenAI API
+langchain-astradb    # database, nosql database
+datasets
+pypdf
+python-dotenv
+flask
+
+-e . # in order to execute setup.py add this line. this command will run the setup.py and install src as local package
+

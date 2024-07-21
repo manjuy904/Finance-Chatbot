@@ -3,7 +3,7 @@ from langchain_astradb import AstraDBVectorStore
 from langchain_openai import  AzureOpenAIEmbeddings
 from langchain_openai import OpenAIEmbeddings
 from dotenv import load_dotenv
-from helper import load_file
+from tradingbot.helper import load_file
 import os
 
 load_dotenv()
